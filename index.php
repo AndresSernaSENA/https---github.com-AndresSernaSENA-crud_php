@@ -46,7 +46,7 @@ if ((isset($_POST['nombre'])) && ($_POST['nombre'] != '') && (isset($_POST['prec
                 </div> 
             </div>
             <footer class="col-lg-12 text-center">
-                Adaweb - <?php echo date("Y"); ?>
+                Andres Serna Obando [Regional Atlantico] - <?php echo date("Y"); ?>
             </footer>
         </div>
     </body>
